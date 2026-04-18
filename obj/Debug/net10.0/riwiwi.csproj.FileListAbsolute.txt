@@ -95,3 +95,11 @@ C:\Users\TZERK\c#semana1\riwiwi\obj\Debug\net10.0\refint\riwiwi.dll
 C:\Users\TZERK\c#semana1\riwiwi\obj\Debug\net10.0\riwiwi.pdb
 C:\Users\TZERK\c#semana1\riwiwi\obj\Debug\net10.0\riwiwi.genruntimeconfig.cache
 C:\Users\TZERK\c#semana1\riwiwi\obj\Debug\net10.0\ref\riwiwi.dll
+C:\Users\TZERK\c#semana1\riwiwi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TZERK\c#semana1\riwiwi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TZERK\c#semana1\riwiwi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TZERK\c#semana1\riwiwi\bin\Debug\net10.0\MySqlConnector.dll
+C:\Users\TZERK\c#semana1\riwiwi\bin\Debug\net10.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\TZERK\c#semana1\riwiwi\obj\Debug\net10.0\riwiwi.csproj.AssemblyReference.cache
+C:\Users\TZERK\c#semana1\riwiwi\obj\Debug\net10.0\riwiwi.sourcelink.json
+C:\Users\TZERK\c#semana1\riwiwi\obj\Debug\net10.0\riwiwi.csproj.Up2Date

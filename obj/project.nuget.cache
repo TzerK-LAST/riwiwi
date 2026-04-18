@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "dBS6BwlO3Co=",
+  "dgSpecHash": "ZRBwIu+TY+g=",
   "success": true,
   "projectFilePath": "C:\\Users\\TZERK\\c#semana1\\riwiwi\\riwiwi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\TZERK\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.15\\microsoft.entityframeworkcore.9.0.15.nupkg.sha512",
+    "C:\\Users\\TZERK\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.15\\microsoft.entityframeworkcore.abstractions.9.0.15.nupkg.sha512",
+    "C:\\Users\\TZERK\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.15\\microsoft.entityframeworkcore.analyzers.9.0.15.nupkg.sha512",
+    "C:\\Users\\TZERK\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.0\\microsoft.entityframeworkcore.relational.9.0.0.nupkg.sha512",
+    "C:\\Users\\TZERK\\.nuget\\packages\\mysqlconnector\\2.4.0\\mysqlconnector.2.4.0.nupkg.sha512",
+    "C:\\Users\\TZERK\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\9.0.0\\pomelo.entityframeworkcore.mysql.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
