@@ -1,0 +1,14 @@
+﻿@media (min-width: 768px) {
+ #movil{
+     display: flex;
+     justify-content: center;
+ }
+}
+
+/* Desktop (1024px en adelante) */
+@media (min-width: 1024px) {
+    .contenedor {
+        width: 960px;
+        font-size: 18px;
+    }
+}
